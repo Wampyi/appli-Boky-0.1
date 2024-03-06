@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>icons/search_find_tool_magnifier_glass_searching_magnifying_icon_250675.svg</file>
+  </qresource>
+</RCC>
